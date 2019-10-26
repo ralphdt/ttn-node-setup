@@ -14,7 +14,10 @@ Ensure a USB cable with data (not just power is used).
 To find nearby gateways http://ttnmapper.org/
 
 Then use the Console/Data tab from a browser to see received messages/payload
+https://console.thethingsnetwork.org/applications/
 
+Application > Integrations > MyDevices (Cayenne)
+https://cayenne.mydevices.com/cayenne/dashboard/
 
 
 Version History
