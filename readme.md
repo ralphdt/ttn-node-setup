@@ -1,4 +1,3 @@
-
 Follow ttn activation/setup instructions - https://ttn.fyi/activate/
 
 Upload the Arduino IDE Passthrough sketch to enable direct serial access from USB to RN2483A
@@ -13,3 +12,6 @@ The RESET switch is inside the case, outside is only the BUTTON switch
 To find nearby gateways http://ttnmapper.org/
 
 Then use the Console/Data tab from a browser to see received messages/payload
+
+Version History
+26/10/19 Initial text.
