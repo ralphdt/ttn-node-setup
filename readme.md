@@ -13,6 +13,8 @@ To find nearby gateways http://ttnmapper.org/
 
 Then use the Console/Data tab from a browser to see received messages/payload
 
+
+
 Version History
 
 26/10/19 Initial text.
