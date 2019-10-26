@@ -7,7 +7,9 @@ Update the RN2483A firmware v1.0.5 using microchip java utility in Windows
 If firmware fails then use Module > Add and try again
 https://www.microchip.com/Developmenttools/ProductDetails/dv164140-1
 
-The RESET switch is inside the case, outside is only the BUTTON switch
+The RESET switch is inside the case, outside is only the BUTTON switch. Timing is key if upload fails.
+Upload, then reset near when the COM port request is made.
+Ensure a USB cable with data (not just power is used).
 
 To find nearby gateways http://ttnmapper.org/
 
